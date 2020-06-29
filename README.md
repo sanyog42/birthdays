@@ -1,2 +1,2 @@
 # birthdays
-Database for D.O.B of IITK students
+D.O.B Database of all IITK BS/BTECH students
